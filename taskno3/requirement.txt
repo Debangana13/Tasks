@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+keras
+langchain
+faiss-cpu
+huggingface-hub
+sentence-transformers
+schedule
+openai
